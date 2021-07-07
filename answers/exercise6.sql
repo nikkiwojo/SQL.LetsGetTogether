@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Students GROUP BY Country AND Country > 10 ORDER BY Country;
